@@ -1,7 +1,7 @@
 #!/bin/python3
 # Tool to calculate the mass of a molecule in u (and thus to calculate that molecule's g/mol)
 
-# Made by Thijmen Voskuilen (thijmen@thijmer.nl). You can edit, distribute or do anything other you want to do with this file, as long as you leave my credit in it. I would also like to know what you have added if you edit the file, but that isn't necessary.
+# Made by Thijmen Voskuilen (thijmen@thijmer.nl). You can edit, distribute or do anything other you want to do with this file, as long as you leave my credits in it. I would also like to know what you have added if you edit the file, but that isn't necessary.
 # My github: https://github.com/thijmer
 
 import sys
